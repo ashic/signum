@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>signum</id>
+    <version>$version$</version>
+    <title>signum</title>
+    <authors>ashic</authors>
+    <owners>ashic</owners>
+    <licenseUrl>https://github.com/heartysoft/signum/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/heartysoft/signum</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>Copyright 2014 Heartysoft Solutions Limited</copyright>
+    <tags>routing slip, process coordination, messaging</tags>
+  </metadata>
+</package>
