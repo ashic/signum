@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace signum
 {
-    public class Program
+    internal class ProgramSample
     {
         public static void Main(string[] args)
         {
